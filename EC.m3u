@@ -1,4 +1,21 @@
 #EXTM3U
+#EXTINF:-1,001 - Willax HD
+http://161.132.108.74:50001/play/a028/index.m3u8
+#EXTINF:-1,002 - Latina HD
+http://161.132.108.74:50001/play/a029/index.m3u8
+#EXTINF:-1,004 - America TV HD
+http://161.132.108.74:50001/play/a02a/index.m3u8
+#EXTINF:-1,005 - Panamericana HD
+http://161.132.108.74:50001/play/a02b/index.m3u8
+#EXTINF:-1,005.1 - Top Latino HD
+http://161.132.108.74:50001/play/a042/index.m3u8
+#EXTINF:-1,006 - Exitosa HD
+http://161.132.108.74:50001/play/a02d/index.m3u8
+#EXTINF:-1,006.1 - IPE HD
+http://161.132.108.74:50001/play/a02f/index.m3u8
+#EXTINF:-1,007 - TV Peru HD
+http://161.132.108.74:50001/play/a02e/index.m3u8
+#EXTINF:-1,008 - Karibena HD
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/95_America_Estereo.jpg"
 group-title="ECUADOR",America Estereo
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8
@@ -180,7 +197,7 @@ http://americaprime.fun:8080/Penarol71A33415/cHMzceyCuFGw/284829.m3u8
 group-title="TELENOVELAS",RCN Novelas HD
 http://directo.ddns.me:2082/live/restreamJRX100/dg2wSTvfTfxe/30612.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/Azcorazón.png/revision/latest?cb=20200402024001&path-prefix=es"
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/b/b7/AzcorazÃ³n.png/revision/latest?cb=20200402024001&path-prefix=es"
 group-title="TELENOVELAS",AZ CORAZON
 http://tilinki.com:25461/live/jpgi9199/mTEIz/10.m3u8
 
@@ -193,7 +210,7 @@ group-title="TELENOVELAS",PASIONES USA
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/4888.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e4170c37a43492253041d788cd353786.webp"
-group-title="TELENOVELAS",RCN Más+
+group-title="TELENOVELAS",RCN MÃ¡s+
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/57151.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Televisa_%282016_Fondo_Negro_y_Logo_Blanco%29.svg/revision/latest/scale-to-width-down/250?cb=20210519022804&path-prefix=es"
